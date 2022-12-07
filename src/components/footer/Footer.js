@@ -24,10 +24,10 @@ function Footer({ containerType }) {
                     />
                   </a>
                 </Link>
-                <p>7176 Blue Spring Lane Santa Monica, CA 90403</p>
+                <p>Nairobi, Kenya</p>
                 <ul>
-                  <li>hi.avitex@gmail.com</li>
-                  <li>+01 123 456 888</li>
+                  <li>info@roro.co.ke</li>
+                  <li>+254701234567</li>
                 </ul>
               </div>
             </Col>
@@ -82,7 +82,7 @@ function Footer({ containerType }) {
       </div>
       <div className="footer-bottom">
         <Container type={containerType}>
-          <p>Copyright © 2020 Avitex Inc. All rights reserved</p>
+          <p>Copyright © 2022 Roro Inc. All rights reserved</p>
         </Container>
       </div>
     </div>
